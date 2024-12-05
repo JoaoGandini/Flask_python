@@ -1,5 +1,0 @@
-Passo 1 - Executar o arquivo server.py
-Passo 2 - Com o servidor em execução, executar o arquivo cliente.js utilizando: node client.js no terminal
-
-Caso você não tenha o axios instalado, que é uma dependência, será necessário instala-la primeiro utiliando
-npm install axios
