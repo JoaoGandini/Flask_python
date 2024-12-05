@@ -1,4 +1,5 @@
 Introdução
+
 Este projeto consiste em uma API desenvolvida em Flask que calcula os números primos dentro de um intervalo especificado. Um cliente em Node.js é usado para consumir esta API e exibir os resultados no console.
 
 Passo 1 - Executar o arquivo server.py
